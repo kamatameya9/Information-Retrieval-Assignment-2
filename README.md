@@ -1,1 +1,1 @@
-# Information-Retrieval-Assignment-2-2
+# Information-Retrieval-Assignment-2
